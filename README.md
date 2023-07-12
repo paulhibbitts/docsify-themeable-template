@@ -2,7 +2,7 @@
 
 > A [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required. Includes the theme system [Docsify Themeable](https://github.com/jhildenbiddle/docsify-themeable).
 
-## Setup
+## Site Setup
 
 The quickest way to get a Docsify site up and running is with GitHub Pages:  
 
