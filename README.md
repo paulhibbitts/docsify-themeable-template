@@ -1,6 +1,6 @@
 # Docsify Themeable Template
 
-> A Docsify templatee, that requires no build process, including the theme system Docsify Themeable.
+> A [Docsify](https://github.com/docsifyjs/docsify/) template, that requires no build process, including the theme system [Docsify Themeable](https://github.com/jhildenbiddle/docsify-themeable).
 
 ## Setup
 
@@ -14,4 +14,4 @@ How about editing the content of your new Docsify site? All you need to do is ed
 
 ## Docsify Documentation
 
-To learn more about using Docsify, visit https://docsify.js.org
+To learn more about using Docsify, visit https://docsify.js.org.
