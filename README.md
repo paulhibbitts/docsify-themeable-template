@@ -1,6 +1,6 @@
 # Docsify Themeable Template
 
-> A Docsify Themeable template that requires no build steps.
+> A Docsify Themeable template that requires no build process.
 
 ## Setup
 
